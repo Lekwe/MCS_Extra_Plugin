@@ -1,0 +1,7 @@
+--------MEP Backup Mode 1 Record--------
+Request Player: Corpse_drowned
+Server Player Amount: 4
+Time: 2024-08-20 13:51:39
+Logs:
+[2024-08-20 13:51:40]: Server Saved.
+[2024-08-20 13:51:41]: Start to copy files...

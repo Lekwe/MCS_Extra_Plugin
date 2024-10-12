@@ -1,0 +1,5 @@
+[22:12:03]: MEP Started!
+[22:12:11]: (Player Durian) input (help)
+[22:12:13]: (Player Corpse_drowned) input (update_logs)
+[22:12:20]: (Player Durian) input (c)
+[22:12:22]: (Player Durian) input (unc)

@@ -1,0 +1,2 @@
+[22:42:03]: MEP Started!
+[22:42:07]: (Player Leokeyn) input (update_logs)

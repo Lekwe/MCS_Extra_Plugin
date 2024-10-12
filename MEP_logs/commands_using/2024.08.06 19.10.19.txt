@@ -1,0 +1,8 @@
+[19:10:19]: MEP Started!
+[19:10:33]: (Player Leokeyn) input (info)
+[19:10:40]: (Player Leokeyn) input (backup)
+[19:10:51]: (Player Leokeyn) input (backup_list)
+[19:10:59]: (Player Leokeyn) input (backup_list)
+[19:11:04]: (Player Leokeyn) input (backup_list)
+[19:11:14]: (Player Leokeyn) input (c)
+[19:11:18]: (Player Leokeyn) input (unc)

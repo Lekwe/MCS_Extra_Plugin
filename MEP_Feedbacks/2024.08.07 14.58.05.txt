@@ -1,0 +1,4 @@
+Player: TomatoleiGhostXP
+Time: 2024-08-07 14:58:05
+Context: 
+unc时会提示不在旁观模式，即使已经进入了旁观模式

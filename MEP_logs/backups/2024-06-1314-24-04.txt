@@ -1,0 +1,8 @@
+--------MEP Backup Mode 3 Record--------
+Request Player: Leokeyn
+Server Player Amount: 0
+Reason: 122
+Time: 2024-06-13 14:24:04
+---------Accepted Players--------
+
+#Too few members, None.

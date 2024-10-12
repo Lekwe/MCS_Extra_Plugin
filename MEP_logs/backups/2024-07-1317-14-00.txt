@@ -1,0 +1,15 @@
+--------MEP Backup Mode 3 Record--------
+Request Player: Leokeyn
+Server Player Amount: 1
+Reason: test1
+Time: 2024-07-13 17:14:00
+---------Accepted Players--------
+[2024-07-13 17:14:27]: Sent Stopping command.
+[2024-07-13 17:14:34]: Server Stopped.
+[2024-07-13 17:14:37]: Start to Copy files...
+[2024-07-13 17:14:37]: Ender_world Copied successfully.
+[2024-07-13 17:14:37]: Nether Copied successfully.
+[2024-07-13 17:14:37]: Overworld Copied successfully.
+[2024-07-13 17:14:38]: Files all have copied! Ready to RESTART server...
+[2024-07-13 17:14:41]: Starting command's sent!
+[2024-07-13 17:14:56]: Server's started!

@@ -1,0 +1,7 @@
+--------MEP Backup Mode 2 Record--------
+Request Player: Leokeyn
+Server Player Amount: 0
+Time: 2024-06-13 22:04:27
+Logs:
+[2024-06-13 22:04:27]: Server Saved.
+[2024-06-13 22:04:28]: Start to Copy Files...

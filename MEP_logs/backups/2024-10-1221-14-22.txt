@@ -1,0 +1,8 @@
+--------MEP Backup Mode 1 Record--------
+Request Player: Leokeyn
+Server Player Amount: 1
+Time: 2024-10-12 21:14:22
+Logs:
+[2024-10-12 21:14:22]: Server Saved.
+[2024-10-12 21:14:23]: Start to copy files...
+[2024-10-12 21:14:52]: Nether Copied successfully.

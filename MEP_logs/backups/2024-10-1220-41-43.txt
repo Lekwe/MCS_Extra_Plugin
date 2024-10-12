@@ -1,0 +1,10 @@
+--------MEP Backup Mode 1 Record--------
+Request Player: Leokeyn
+Server Player Amount: 1
+Time: 2024-10-12 20:41:43
+Logs:
+[2024-10-12 20:41:44]: Server Saved.
+[2024-10-12 20:41:45]: Start to copy files...
+[2024-10-12 20:41:46]: Nether Copied successfully.
+[2024-10-12 20:41:46]: Ender_world Copied successfully.
+[2024-10-12 20:41:46]: Overworld Copied successfully.
